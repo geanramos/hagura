@@ -1,8 +1,8 @@
 ### your site title here
 
-title: Hagura - Light!
+title: Gean Ramos - U1M.com.br
 baseurl: /hagura # name of the repository
-email: your@email.com
+email: geancr10@gmail.com
 
 
 
@@ -14,10 +14,10 @@ paginate: 4
 
 
 # Tracker
-analytics: UA-83979019-4
+analytics: UA-59300081-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: geanramos
 
 
 #optimization
@@ -28,8 +28,8 @@ compress_html:
   endings: [all]
   ignore:
     envs: [local]
-  blanklines: false
-  profile: false
+  blanklines: true
+  profile: true
   startings: []
 
 
